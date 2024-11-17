@@ -13,7 +13,7 @@
 
 
 	
-## <picture><img src = "https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width = 50px></picture> **About me**
+### 👨🏻‍💻 &nbsp;About Me
 
 <picture> <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width = 250px></picture>
 
