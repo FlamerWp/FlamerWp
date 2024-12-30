@@ -7,21 +7,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
 <br>
 
-
-
-	
 ### 👨🏻‍💻 &nbsp;About Me
 
 <picture> <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+I am a highly motivated systems engineering student with a passion for software development and back-end technologies. I am seeking opportunities to expand my professional profile and contribute significantly to projects related to programming and application development. I am interested in joining development teams where I can apply my knowledge in programming languages such as Python, Java, and SQL, learn new technologies, enhance my database design skills, and collaborate in the optimization of backend systems and services
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
@@ -43,7 +37,7 @@
   <!--tech stack icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+      <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,dynamodb,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,vscode" />
     </a>
   </p>
 
@@ -78,9 +72,8 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
+
+<br><br><br>
 
 <div align='center'>
 
